@@ -1,4 +1,4 @@
-<img src= "starfall-gif-45-ezgif.com-crop.gif" align="center">
+<img src= "starfall-gif-45-ezgif.com-crop.gif" align="center" width="100%">
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
