@@ -3,8 +3,7 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!<br>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center"/>](https://instagram.com/itzme.akuma)
-[<img src="![image](https://github.com/BishantRajbanshi/BishantRajbanshi/assets/88127905/0a892b5b-f4c2-4304-9a8e-a9a4d1542479)
-" height="40em" align="center"/>](rajbancbishant@gmail.com)  
+[<img src="![image](https://github.com/BishantRajbanshi/BishantRajbanshi/assets/88127905/87d5ce3d-5b82-41d5-a2b9-79ef6a54b3fe)" height="40em" align="center"/>](rajbancbishant@gmail.com)  
 
 **Languages and Tools:**
 <br>
