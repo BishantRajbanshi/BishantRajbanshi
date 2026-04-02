@@ -9,18 +9,22 @@
 [<img src="![image](https://github.com/BishantRajbanshi/BishantRajbanshi/assets/88127905/87d5ce3d-5b82-41d5-a2b9-79ef6a54b3fe)" height="40em" align="center"/>](rajbancbishant@gmail.com)  
 
 **Languages and Tools:**
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,java,php,mysql,js,html,css,git,vscode,powershell,chrome" />
+  </a>
+</p>
 
 # 📊 Stats:
-[!(https://github-readme-stats.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishantRajbanshi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark" alt="Bishant's GitHub stats" />
+  </a>
+</p>
 
 ![snake gif](https://github.com/BishantRajbanshi/BishantRajbanshi/blob/output/github-snake-dark.svg)
 
