@@ -16,15 +16,20 @@
 </p>
 
 # 📊 Stats:
-<p align="center">
-  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=BishantRajbanshi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-kappa.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark" alt="Bishant's GitHub stats" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=BishantRajbanshi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats-kappa.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark" alt="Bishant's GitHub stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ![snake gif](https://github.com/BishantRajbanshi/BishantRajbanshi/blob/output/github-snake-dark.svg)
 
