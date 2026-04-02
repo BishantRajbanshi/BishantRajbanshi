@@ -17,12 +17,12 @@
 
 # 📊 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishantRajbanshi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=BishantRajbanshi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark" alt="Bishant's GitHub stats" />
+    <img src="https://github-readme-stats-kappa.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark" alt="Bishant's GitHub stats" />
   </a>
 </p>
 
