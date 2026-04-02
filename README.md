@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishantRajbanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![[Anurag's GitHub stats-Dark]](https://github-readme-stats.vercel.app/api/top-langs/?username=BishantRajbanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [!(https://github-readme-stats.vercel.app/api?username=BishantRajbanshi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![snake gif](https://github.com/BishantRajbanshi/BishantRajbanshi/blob/output/github-snake-dark.svg)
